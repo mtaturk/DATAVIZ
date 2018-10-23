@@ -1,5 +1,4 @@
-DATAVIZ
-============
+# DATAVIZ
 
 ## Assignment 1
 
