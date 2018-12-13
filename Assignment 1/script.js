@@ -1,9 +1,10 @@
-var healthData;
+var data;
 
 function preload() {
-    healthData = loadJSON('data.json')
+    data = loadJSON('data.json')
 }
 
 function setup () {
-    console.log(healthData)
+    var steps_data = data.steps;
+    console.log(steps_data.length);
 }
