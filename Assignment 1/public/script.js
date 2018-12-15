@@ -7,7 +7,7 @@ var canvasHeight = 800;
 var fontSize = 26;
 
 function preload() {
-    data = loadJSON('data.json')
+    data = loadJSON('/data/data.json')
 }
 
 function setup() {
